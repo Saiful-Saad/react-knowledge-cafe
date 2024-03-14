@@ -1,50 +1,50 @@
 [
     {
       "id": 1,
-      "cover": "https://i.ibb.co/48T1Z80/gradient-business-template-design-23-2150388920.jpg",
+      "cover": "https://i.imghippo.com/files/SbEbU1710325114.jpg",
       "title": "The Art of Programming",
       "author": "John Doe",
-      "author_img": "https://i.ibb.co/8c56Y32/business-concept-youtube-cover-template-23-2150288667.jpg",
+      "author_img": "https://i.imghippo.com/files/3Maid1710326671.png",
       "posted_date": "2024-03-10",
       "reading_time": 10,
       "hashtags": ["programming", "coding", "technology"]
     },
     {
       "id": 2,
-      "cover": "https://i.ibb.co/48T1Z80/gradient-business-template-design-23-2150388920.jpg",
+      "cover": "https://i.imghippo.com/files/iCWlN1710325046.jpg",
       "title": "Cooking Basics",
       "author": "Jane Smith",
-      "author_img": "https://i.ibb.co/8c56Y32/business-concept-youtube-cover-template-23-2150288667.jpg",
+      "author_img": "https://i.imghippo.com/files/9Po4v1710326721.jpg",
       "posted_date": "2024-03-09",
       "reading_time": 8,
       "hashtags": ["cooking", "recipes", "food"]
     },
     {
       "id": 3,
-      "cover": "https://i.ibb.co/48T1Z80/gradient-business-template-design-23-2150388920.jpg",
+      "cover": "https://i.imghippo.com/files/SbEbU1710325114.jpg",
       "title": "Fitness Fundamentals",
       "author": "Michael Johnson",
-      "author_img": "https://i.ibb.co/8c56Y32/business-concept-youtube-cover-template-23-2150288667.jpg",
+      "author_img": "https://i.imghippo.com/files/MwAz01710326754.jpg",
       "posted_date": "2024-03-08",
       "reading_time": 12,
       "hashtags": ["fitness", "exercise", "health"]
     },
     {
       "id": 4,
-      "cover": "https://i.ibb.co/48T1Z80/gradient-business-template-design-23-2150388920.jpg",
+      "cover": "https://i.imghippo.com/files/SbEbU1710325114.jpg",
       "title": "Travel Tips",
       "author": "Sarah Brown",
-      "author_img": "https://i.ibb.co/8c56Y32/business-concept-youtube-cover-template-23-2150288667.jpg",
+      "author_img": "https://i.imghippo.com/files/JPrLt1710326788.jpg",
       "posted_date": "2024-03-07",
       "reading_time": 15,
       "hashtags": ["travel", "adventure", "explore"]
     },
     {
       "id": 5,
-      "cover": "https://i.ibb.co/48T1Z80/gradient-business-template-design-23-2150388920.jpg",
+      "cover": "https://i.imghippo.com/files/SbEbU1710325114.jpg",
       "title": "Photography Essentials",
       "author": "David Lee",
-      "author_img": "https://i.ibb.co/8c56Y32/business-concept-youtube-cover-template-23-2150288667.jpg",
+      "author_img": "https://i.imghippo.com/files/JPrLt1710326788.jpg",
       "posted_date": "2024-03-06",
       "reading_time": 20,
       "hashtags": ["photography", "art", "creativity"]
